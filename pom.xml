@@ -60,11 +60,11 @@
 	<distributionManagement>
         <repository>
             <id>maven-releases</id>
-            <url>http://13.201.115.32:8081/repository/maven-releases/</url>
+            <url>http://ec2-35-153-71-43.compute-1.amazonaws.com:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
             <id>maven-snapshots</id>
-            <url>http://13.201.115.32:8081/repository/maven-snapshots/</url>
+            <url>http://ec2-35-153-71-43.compute-1.amazonaws.com:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
 
